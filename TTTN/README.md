@@ -17,8 +17,7 @@ Tài liệu:
 - [Thiết kế database và ETL](docs/database.md)
 - [REST API Reference](docs/api.md)
 - [Frontend Architecture](docs/frontend.md)
-- [Nguồn dữ liệu và phạm vi sử dụng](docs/data-sources.md)
-- [Testing và Release Checklist](docs/testing.md)
+- [Nguồn dữ liệu và phạm vi sử dụng](docs/data-sources.md))
 
 ## 1. Kiến trúc
 
