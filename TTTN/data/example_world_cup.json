@@ -1,0 +1,29 @@
+{
+  "tournament": {"year": 2022, "name": "FIFA World Cup Qatar 2022", "host_country": "Qatar", "champion_code": "ARG"},
+  "teams": [
+    {"code": "ARG", "name": "Argentina", "confederation": "CONMEBOL"},
+    {"code": "FRA", "name": "France", "confederation": "UEFA"}
+  ],
+  "players": [
+    {"external_id": "P-14758", "full_name": "Lionel Messi", "team_code": "ARG", "shirt_number": 10, "position": "FW"},
+    {"external_id": "P-64077", "full_name": "Kylian Mbappé", "team_code": "FRA", "shirt_number": 10, "position": "FW"}
+  ],
+  "matches": [{
+    "external_id": "M-2022-64", "stage": "final", "home": "ARG", "away": "FRA",
+    "home_score": 3, "away_score": 3, "home_penalties": 4, "away_penalties": 2,
+    "status": "finished", "venue": "Lusail Stadium",
+    "events": [
+      {"team": "ARG", "player": "P-14758", "type": "penalty_goal", "minute": 23},
+      {"team": "FRA", "player": "P-64077", "type": "penalty_goal", "minute": 80},
+      {"team": "FRA", "player": "P-64077", "type": "goal", "minute": 81},
+      {"team": "ARG", "player": "P-14758", "type": "goal", "minute": 108},
+      {"team": "FRA", "player": "P-64077", "type": "penalty_goal", "minute": 118},
+      {"team": "ARG", "player": null, "type": "yellow_card", "minute": 90},
+      {"team": "FRA", "player": null, "type": "yellow_card", "minute": 116}
+    ],
+    "appearances": [
+      {"player": "P-14758", "started": true, "minutes": 120},
+      {"player": "P-64077", "started": true, "minutes": 120}
+    ]
+  }]
+}
