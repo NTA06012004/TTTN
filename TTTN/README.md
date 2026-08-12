@@ -19,7 +19,6 @@ Tài liệu:
 - [Frontend Architecture](docs/frontend.md)
 - [Nguồn dữ liệu và phạm vi sử dụng](docs/data-sources.md)
 - [Testing và Release Checklist](docs/testing.md)
-- [Ma trận truy vết chức năng](docs/feature-matrix.md)
 - Swagger UI: `/docs`, ReDoc: `/redoc`, OpenAPI JSON: `/openapi.json`
 
 ## 1. Kiến trúc
